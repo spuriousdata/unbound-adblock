@@ -15,6 +15,7 @@ BIGDOMAINS = (
     'cloudfront.net',
     'wordpress.com',
     'blogspot.com',
+    'akamaihd.net',
 )
 
 MALWARE = (
